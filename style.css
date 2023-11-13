@@ -47,10 +47,10 @@ img {
 .div-top {
     width: 150px;
     height: 150px;
-    background-image: url(C:\Users\carlo\OneDrive\Desktop\CORSO\ESERCITAZIONI\html-css-booleaner\img\monitor.jpg);
+    background-image: url(img/monitor.jpg);
 }
 .div-bottom {
     width: 150px;
     height: 150px;
-    background-image: url(C:\Users\carlo\OneDrive\Desktop\CORSO\ESERCITAZIONI\html-css-booleaner\img\graph.jpg);
+    background-image: url(img/graph.jpg);
 }
