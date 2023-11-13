@@ -31,8 +31,9 @@ img {
     background-image: url(img/pattern.png);
 }
 
-#title_text {
+.title_text {
     color: gray;
+    line-height: 5px;
 }
 
 #booleaner {
@@ -41,4 +42,5 @@ img {
 
 .photo {
     font-size: small;
+    line-height: 5px;
 }
