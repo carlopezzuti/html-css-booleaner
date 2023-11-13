@@ -1,22 +1,32 @@
 * {
-    margin: 0;
+    margin: 50px;
     padding: 0;
     box-sizing: border-box;
+    width: 800px;
+    text-align: center;
 }
+
 header {
-    padding: 10px;
     background-color: darkgreen;
     background-image: url(/img/pattern.png);
 }
-main {
-    padding: 10px;
+
+.container {
+    text-align: left;
 }
+
 .top-logo {
     background-image: url(img/pattern.png);
 }
+
 #title_text {
     color: gray;
 }
+
 #booleaner {
     color: blue;
+}
+
+.photo {
+    font-size: small;
 }
