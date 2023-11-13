@@ -1,18 +1,30 @@
 * {
-    margin: 50px;
+    margin-left: 5px;
     padding: 0;
     box-sizing: border-box;
     width: 800px;
-    text-align: center;
 }
 
 header {
-    background-color: darkgreen;
-    background-image: url(/img/pattern.png);
+    width: auto;
+    height: 150px;
+    background-image: url(C:\Users\carlo\OneDrive\Desktop\CORSO\ESERCITAZIONI\html-css-booleaner\img\pattern.png);
 }
 
 .container {
-    text-align: left;
+    
+}
+
+img {
+    height: 250px;
+}
+
+.img1 {
+    width: 350px;
+}
+
+.img2 {
+    width: 400px;
 }
 
 .top-logo {
