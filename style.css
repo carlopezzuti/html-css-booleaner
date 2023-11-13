@@ -8,7 +8,9 @@
 header {
     width: auto;
     height: 150px;
-    background-image: url(/img/pattern.png);
+    background-image: url(img/pattern.png);
+    background-repeat: repeat-x;
+    background-color: #ddd;
 }
 
 .container {
@@ -29,6 +31,8 @@ img {
 
 .top-logo {
     background-image: url(img/logo.svg);
+    height: 80px;
+    background-repeat: no-repeat;
 }
 
 .title_text {
@@ -48,9 +52,11 @@ img {
     width: 150px;
     height: 150px;
     background-image: url(img/monitor.jpg);
+    color: white;
 }
 .div-bottom {
     width: 150px;
     height: 150px;
     background-image: url(img/graph.jpg);
+    color: white;
 }
